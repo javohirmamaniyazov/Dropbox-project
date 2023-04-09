@@ -1,0 +1,100 @@
+
+.button-1:hover {
+    background-color: #fff;
+    color: #0c0b17;
+    border: 2px solid #1DA1F2;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px #aaa;
+    z-index: 1;
+  }
+  
+  .logo {
+    height: 40px;
+    margin-right: auto;
+    margin-left: 50px;
+  }
+  
+  .nav-link {
+    color: #555;
+    font-weight: bold;
+    margin-left: 20px;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    color: #1DA1F2;
+  }
+  
+
+  .signin-btn {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .signin-btn:hover {
+    color: #1da1f2;
+  }
+
+.container {
+  text-align: center;
+}
+h1 {
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+.button {
+  width: 110px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: center;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-left: 30px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+
+.button-3 {
+  border: 2px solid #3c73ff;
+  background-color: #3c73ff;
+  border-radius: 20px;
+  color: #fff;
+  transition: .3s;
+}
+.button-3:hover {
+  box-shadow: 8px 8px #99bdff;
+  transition: .3s;
+}
+
+
+#signup {
+  width: 45%;
+}
+
+#btn-sign {
+  width: 500px;
+
+}
+
+.breadcrump{
+  padding-top: 100px;
+}

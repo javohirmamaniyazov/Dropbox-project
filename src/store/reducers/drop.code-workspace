@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "drop",
+			"path": "../../.."
+		},
+		{
+			"name": "src",
+			"path": "../../../../Drive-master/drive/src"
+		}
+	],
+	"settings": {}
+}
